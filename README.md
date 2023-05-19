@@ -1,5 +1,6 @@
 ## MTO79 Personal GitHub Repositories 
-  
+
+## Socials 
 <a href="https://github.com/mto79" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
