@@ -1,4 +1,4 @@
-## MTO79  
+## MTO79 Personal GitHub Repositories 
   
 <a href="https://github.com/mto79" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -15,10 +15,6 @@
 <a href="https://instagram.com/mto79" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
-### MTO79 personal GitHub.  
-  
-<br/>  
   
 ## Languages and Tools  
 <div align="center">  
